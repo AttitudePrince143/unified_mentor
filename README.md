@@ -6,8 +6,8 @@ some projects which has completed during intership
 https://attitudeprince143.github.io/unified_mentor/To-Do%20List%20App/
 
 # 2-Recipe Book App
-https://attitudeprince143.github.io/unified_mentor/To-Do%20List%20App/
+https://attitudeprince143.github.io/unified_mentor/Recipe%20Book/
 
 # 3-Weather App
-https://attitudeprince143.github.io/unified_mentor/Weather App/
+https://github.com/AttitudePrince143/unified_mentor/Weather%20App/
 
