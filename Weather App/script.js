@@ -1,7 +1,12 @@
+
+require('dotenv').config();
+
+
 async function getWeather() {
     const location = document.getElementById('locationInput').value;
     const weatherResult = document.getElementById('weatherResult');
-    const apiKey = '05b5f236865718f1c3e8dfdc388955b2'; // Replace with your OpenWeatherMap API key
+    const apiKey = process.env.Weather_API_KEY;
+    ; // Replace with your OpenWeatherMap API key
   
     if (!location) {
       weatherResult.innerHTML = '<p class="error">Please enter a location.</p>';
